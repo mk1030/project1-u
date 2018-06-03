@@ -1,0 +1,12 @@
+body {
+
+}
+
+.featured-work_images {
+  list-style: none;
+
+}
+
+.featured-work_images li {
+  display: inline;
+}
